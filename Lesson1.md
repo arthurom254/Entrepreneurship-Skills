@@ -1,13 +1,13 @@
-# Account Takeover
+# Lesson 1 Entrepreneurship Skills
 
 ## Summary
 
-* [Definition of Terms](#definition_of_terms)
+* [Definition of Terms](#definition-of-terms)
     * [Entrepreneurship](#entrepreneurship)
     * [Entrepreneur](#entrepreneur)
     * [Intrapreneur](#intrapreneur)
  
-* [Characteristics Of Entrepreneur](#characteristics_of_entrepreneur)
+* [Characteristics Of Entrepreneur](#characteristics-of-entrepreneur)
   
 ## Definition Of Terms 
 
