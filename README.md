@@ -1,7 +1,7 @@
 # Entrepreneurship Skills Notes Jan-Apr 2024 from The Cooperative University of Kenya
 * Lecturer:
 * Writer:[Arthur Okumu](https://arthurom254.github.io)
-[![Author: Arthur](https://arthurom254.github.io/icon.png)](https://arthurom254.github.io)
+![Author: Arthur](https://arthurom254.github.io/icon.png)
 ## Contents 
 
 * [Lesson 1](./Lesson1.md)

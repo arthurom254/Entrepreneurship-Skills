@@ -100,7 +100,6 @@ Besides wealth, entrepreneurs seek power, prestige security and services to the 
 # Quiz
 
 ### a. Discuss 5 different theories of entrepreneurship indicating their weaknesses 
-```
 1. Psychological Trait Theory: This theory suggests that certain psychological traits, such as risk-taking propensity, self-confidence, and need for achievement, determine an individual's likelihood of becoming an entrepreneur. However, the weakness of this theory is that it fails to consider the role of external factors like market conditions and available resources, which are also significant in entrepreneurial success.
 
 2. Opportunity-based Theory: This theory proposes that entrepreneurs identify and exploit opportunities in the market. It emphasizes the importance of timing and innovation. However, a weakness of this theory is that it overlooks the impact of social and economic factors, such as access to capital and networks, which may hinder or enable entrepreneurial endeavors.
@@ -110,6 +109,6 @@ Besides wealth, entrepreneurs seek power, prestige security and services to the 
 4. Social Network Theory: This theory emphasizes the importance of social networks and relationships in entrepreneurial success. It suggests that entrepreneurs benefit from their connections, which provide access to resources, information, and support. However, a weakness of this theory is that it assumes that all networks have equal value, neglecting the fact that certain networks may be exclusionary or limited in their scope.
 
 5. Institutional Theory: This theory focuses on the influence of cultural, social, and political institutions on entrepreneurial behavior. It argues that individuals are significantly influenced by the norms, values, and regulations of their societal context. However, a weakness of this theory is that it tends to overlook individual agency and the potential for entrepreneurship to challenge or change existing institutions.
-```
+
 
 [Back to Home Page](./README.md)
