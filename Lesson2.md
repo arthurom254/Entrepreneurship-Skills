@@ -57,7 +57,7 @@ the business
 
 ix. Provide the necessary leadership for the business and those who are working on it.
 
-Contribution of Entrepreneusthip to National Development
+## Contribution of Entrepreneusthip to National Development
 
 i. Effective utilisation of resources. Entrepreneurship is all about putting to better use of resources which ate considered  to be of low value with an aim of earning an income. An  entrepreneur comes up with ideas of how to use what others may consider unuseful .
 
